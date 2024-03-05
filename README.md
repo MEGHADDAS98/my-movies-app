@@ -19,7 +19,7 @@ Django REST Framework: Toolkit for building robust Web APIs using Django.
 Installation
 Clone the repository:
 bash
-git clone https://github.com/MEGHADDAS98/your-movie-app.git
+git clone https://github.com/MEGHADDAS98/my-movies-app.git
 
 Install dependencies:
 
